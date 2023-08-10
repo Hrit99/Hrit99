@@ -1,2 +1,1 @@
-Hi, I am Hritik Pihal. I have been an enthusiast for developing softwares. For the initiation of my journey I started learning websites and Applications developement.
-Now I am up for learning Machine Learning and deep learning stuff. Full of excitement....on my way.
+Hi, I am Hritik Pihal. I am a software engineer and I am passionate to solve social problems using my tech skills to uplift the living standards of unfortunate people. I like to design eﬃcient systems and code to enhance software performance. Full of excitement....on my way.
